@@ -13,15 +13,16 @@ const samira = {
       frameworks: ["Nest.js","Express.js"],
       microServiceTools: ["RabbitMQ"],
       DataBases: ["MongoDB", "MySQL", "Redis", "ElasticSearch"],
-      ORM: ["typeorm", "sequelize", "prisma"],
-      architectures: ["MVC", "onion", "clean", "Monolithic", "Microservice"],
-      API: ["postman", "swagger"],
-      realTimeTools: ["socket.io", "webSocket"],
+      ORM: ["Typeorm", "Sequelize", "Prisma"],
+      authentication:["Jwt","OAuth2","Passport"],
+      architectures: ["MVC", "Onion", "clean", "Monolithic", "Microservice"],
+      API: ["Postman", "Swagger"],
+      realTimeTools: ["Socket.io", "WebSocket"],
       designPrinciples: ["DRY", "KISS", "SOLID"],
-      designPatterns: ["singleton", "factory", "strategy", "observer", "decorator"]
+      designPatterns: ["Singleton", "Factory", "Strategy", "Observer", "Decorator"]
     },
     frontEnd: {
-      web: ["I am not a front-end developer, but I am familiar with HTML, CSS and Vuejs😇"],
+      web: ["I am not a front-end developer, but I am familiar with HTML, CSS and Vuejs😇"]
     },
   },
   askMeAbout: [
