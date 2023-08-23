@@ -4,7 +4,7 @@ Welcome to my GitHub!
 ### a little more about samira 👀
 
 ```javascript
-const samira = {
+let samira = {
   fullName: "Samira Saleh",
   aboutMe: "I'm a back-end developer, even though I have experienced different languages such as C#, php and...,in the end my choice is nodejs.",
   myStack: {
