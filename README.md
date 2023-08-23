@@ -40,6 +40,9 @@ const samira = {
 <img src="https://skillicons.dev/icons?i=ts,js,nestjs,express,nodejs,prisma,mysql,redis,mongodb,rabbitmq,git,mongodb,postman&theme=dark">
 
 ## Connect with me:
+
+[<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:samira.saleh296@gmail.com)
+
 <!--
 tel,gmail
 **samira74slh/samira74slh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
