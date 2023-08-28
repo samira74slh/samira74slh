@@ -12,14 +12,14 @@ let samira = {
       language: ["Typescript", "Javascript"],
       frameworks: ["Nest.js","Express.js"],
       microServiceTools: ["RabbitMQ"],
-      DataBases: ["MongoDB", "MySQL", "Redis", "ElasticSearch"],
+      DataBases: ["MongoDB", "MySQL", "Redis", "ElasticSearch","Postgresql"],
       ORM: ["Typeorm", "Sequelize", "Prisma"],
       authentication:["Jwt","OAuth2","Passport"],
       architectures: ["MVC", "Onion", "clean", "Monolithic", "Microservice"],
       API: ["Postman", "Swagger"],
       realTimeTools: ["Socket.io", "WebSocket"],
       designPrinciples: ["DRY", "KISS", "SOLID"],
-      designPatterns: ["Singleton", "Factory", "Strategy", "Observer", "Decorator"]
+      designPatterns: ["Singleton", "Strategy", "Observer"]
     },
     frontEnd: {
       web: ["I am not a front-end developer, but I am familiar with HTML, CSS and Vuejs😇"]
@@ -33,7 +33,7 @@ let samira = {
   ],
   cloud: ["aws"],
   server: ["nginx", "linux"],
-  currentLearning: ["Docker🐳", "Postgresql","Design Patterns"],
+  currentLearning: ["Docker🐳", "Design Patterns"],
 };
 ```
 
